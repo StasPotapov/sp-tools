@@ -130,8 +130,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/auto-bmad",
-        "ref": "v1.1.2",
-        "sha": "1109863371f973ba1ead99466f2a54d4f603e9ad"
+        "ref": "v1.2.0",
+        "sha": "b82454cc589f2569bbe2e1509fcbe2ae3921cff9"
       },
       "keywords": [
         "bmad",
