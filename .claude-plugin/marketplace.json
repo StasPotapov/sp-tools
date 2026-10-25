@@ -12,8 +12,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/adbm",
-        "ref": "v0.3.0",
-        "sha": "1ba05002c1b64bc77ec23ee5186000f37844ace2"
+        "ref": "v0.3.1",
+        "sha": "94602bb3293e59955c0eb32f29737690f4d290ae"
       },
       "keywords": [
         "android",
@@ -57,8 +57,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/git-xfer",
-        "ref": "v0.2.0",
-        "sha": "bcf6c7e68c58d560e9e485085edf58c6f242a66d"
+        "ref": "v0.2.1",
+        "sha": "0224e759c352f3396fd82d24ee457fa8fceeb353"
       },
       "keywords": [
         "git",
