@@ -123,6 +123,23 @@
           "skill/bin/mockmatch"
         ]
       }
+    },
+    {
+      "name": "auto-bmad",
+      "description": "Unattended BMad v6 runs: each story in its own subagent, review depth levels, parallel waves in git worktrees, sprint tracking, open questions and human-readable reports.",
+      "source": {
+        "source": "github",
+        "repo": "StasPotapov/auto-bmad"
+      },
+      "keywords": [
+        "bmad",
+        "automation",
+        "subagents",
+        "code-review",
+        "worktree"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/StasPotapov/auto-bmad"
     }
   ]
 }
