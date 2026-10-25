@@ -11,6 +11,7 @@
 | [git-xfer](https://github.com/StasPotapov/git-xfer) | Переносит коммиты между двумя несвязанными git-репозиториями |
 | [forgeAi3d](https://github.com/StasPotapov/forgeAi3d) | Код-CAD для 3D-печати: моделирует деталь по описанию или правит твой STL, проверяет печатопригодность |
 | [mockmatch](https://github.com/StasPotapov/mockmatch) | Агент управляет headless-браузером детерминированными командами и сверяет сайт с дизайном (Claude Design, HTML-макет, PNG) поэлементно |
+| [auto-bmad](https://github.com/StasPotapov/auto-bmad) | Прогон story и эпиков BMad v6 без человека: сабагент на story, уровни ревью, параллельные волны в git worktree, проверки и отчёты |
 
 ## Установка
 
