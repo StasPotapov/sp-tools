@@ -1,0 +1,62 @@
+{
+  "name": "sp-tools",
+  "description": "Claude Code plugins by Stas Potapov: Android device control, HTML slide decks, moving commits between repositories and more. Each plugin is pinned to a release tag.",
+  "owner": {
+    "name": "Stas Potapov",
+    "url": "https://github.com/StasPotapov"
+  },
+  "plugins": [
+    {
+      "name": "adbm",
+      "description": "Android Debug Bridge Matrix: an agent drives Android devices and emulators instead of raw adb with deterministic commands, not guesses from screenshots — screen as text, taps that check the next screen, input, apps, logs, screenshots — plus visual checks: emulators by API level, Maestro flows in parallel, before/after board and contact sheet.",
+      "source": {
+        "source": "github",
+        "repo": "StasPotapov/adbm"
+      },
+      "keywords": [
+        "android",
+        "adb",
+        "emulator",
+        "maestro",
+        "screenshot",
+        "visual-testing"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/StasPotapov/adbm"
+    },
+    {
+      "name": "present",
+      "description": "A Claude Code skill that walks you from an idea to a bespoke offline HTML slide deck: slide text, design brief, build with a presenter window and live notes, spoken run-through and trimming to time. Plus a short path: one page in one go.",
+      "source": {
+        "source": "github",
+        "repo": "StasPotapov/present"
+      },
+      "keywords": [
+        "presentation",
+        "slides",
+        "deck",
+        "html",
+        "talk",
+        "rehearsal"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/StasPotapov/present"
+    },
+    {
+      "name": "git-xfer",
+      "description": "Move commits between two unrelated git repositories: the git-xfer CLI on the agent's PATH and a skill that drives it — dedup, conflict dry run, honest abort.",
+      "source": {
+        "source": "github",
+        "repo": "StasPotapov/git-xfer"
+      },
+      "keywords": [
+        "git",
+        "cherry-pick",
+        "commits",
+        "repositories"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/StasPotapov/git-xfer"
+    }
+  ]
+}
