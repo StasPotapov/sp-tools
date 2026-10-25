@@ -8,6 +8,7 @@ Add it once, then install any plugin from it by name. [Русская верси
 | [adbm](https://github.com/StasPotapov/adbm) | The agent drives Android devices and emulators with deterministic commands instead of raw adb, plus visual before/after checks |
 | [present](https://github.com/StasPotapov/present) | From an idea to an offline HTML slide deck with a presenter window, a run-through and trimming to time |
 | [git-xfer](https://github.com/StasPotapov/git-xfer) | Moves commits between two unrelated git repositories |
+| [forgeAi3d](https://github.com/StasPotapov/forgeAi3d) | Code CAD for 3D printing: models a part from a description or edits your STL, checks printability |
 
 ## Install
 

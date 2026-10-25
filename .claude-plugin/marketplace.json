@@ -90,7 +90,12 @@
         "openscad"
       ],
       "license": "MIT",
-      "homepage": "https://github.com/StasPotapov/forgeAi3d"
+      "homepage": "https://github.com/StasPotapov/forgeAi3d",
+      "metadata": {
+        "versionFiles": [
+          "pyproject.toml"
+        ]
+      }
     }
   ]
 }

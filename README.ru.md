@@ -9,6 +9,7 @@
 | [adbm](https://github.com/StasPotapov/adbm) | Агент управляет Android-устройствами и эмуляторами детерминированными командами вместо сырого adb и сравнивает экраны «до» и «после» |
 | [present](https://github.com/StasPotapov/present) | Ведёт от идеи до офлайн-презентации в HTML: окно докладчика, прогон вслух, подгонка под время |
 | [git-xfer](https://github.com/StasPotapov/git-xfer) | Переносит коммиты между двумя несвязанными git-репозиториями |
+| [forgeAi3d](https://github.com/StasPotapov/forgeAi3d) | Код-CAD для 3D-печати: моделирует деталь по описанию или правит твой STL, проверяет печатопригодность |
 
 ## Установка
 
