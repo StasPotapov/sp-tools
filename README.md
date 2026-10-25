@@ -9,6 +9,7 @@ Add it once, then install any plugin from it by name. [Русская верси
 | [present](https://github.com/StasPotapov/present) | From an idea to an offline HTML slide deck with a presenter window, a run-through and trimming to time |
 | [git-xfer](https://github.com/StasPotapov/git-xfer) | Moves commits between two unrelated git repositories |
 | [forgeAi3d](https://github.com/StasPotapov/forgeAi3d) | Code CAD for 3D printing: models a part from a description or edits your STL, checks printability |
+| [mockmatch](https://github.com/StasPotapov/mockmatch) | The agent drives a headless browser with deterministic commands and checks the site against the design (Claude Design, HTML mockup, PNG) element by element |
 
 ## Install
 
