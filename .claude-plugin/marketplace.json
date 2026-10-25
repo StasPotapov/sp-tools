@@ -22,7 +22,12 @@
         "visual-testing"
       ],
       "license": "MIT",
-      "homepage": "https://github.com/StasPotapov/adbm"
+      "homepage": "https://github.com/StasPotapov/adbm",
+      "metadata": {
+        "versionFiles": [
+          "skill/bin/adbm"
+        ]
+      }
     },
     {
       "name": "present",
@@ -56,7 +61,13 @@
         "repositories"
       ],
       "license": "MIT",
-      "homepage": "https://github.com/StasPotapov/git-xfer"
+      "homepage": "https://github.com/StasPotapov/git-xfer",
+      "metadata": {
+        "versionFiles": [
+          "pyproject.toml",
+          "gitxfer/__init__.py"
+        ]
+      }
     }
   ]
 }
