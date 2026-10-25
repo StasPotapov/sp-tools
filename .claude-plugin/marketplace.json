@@ -98,6 +98,24 @@
           "pyproject.toml"
         ]
       }
+    },
+    {
+      "name": "mockmatch",
+      "description": "Checks a website against its design and drives a headless browser for the agent: an agent drives a headless browser with deterministic commands instead of guesses from screenshots — the page as text, clicks that report what changed, input, console errors, computed styles — and checks the site against the design (a Claude Design frame, an HTML mockup or a PNG): element-by-element style and geometry diff, pixel regions with crops, an HTML board and a subagent verdict.",
+      "source": {
+        "source": "github",
+        "repo": "StasPotapov/mockmatch"
+      },
+      "keywords": [
+        "browser",
+        "playwright",
+        "chrome-devtools-protocol",
+        "design",
+        "visual-testing",
+        "claude-design"
+      ],
+      "license": "MIT",
+      "homepage": "https://github.com/StasPotapov/mockmatch"
     }
   ]
 }
