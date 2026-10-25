@@ -105,8 +105,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/mockmatch",
-        "ref": "v0.1.0",
-        "sha": "4d531f04d1778b0b7f1c5876c02e8418ac0b062d"
+        "ref": "v0.1.1",
+        "sha": "2656377c3c464c5670bcd534ee587716233fddeb"
       },
       "keywords": [
         "browser",
@@ -129,7 +129,9 @@
       "description": "Unattended BMad v6 runs: each story in its own subagent, review depth levels, parallel waves in git worktrees, sprint tracking, open questions and human-readable reports.",
       "source": {
         "source": "github",
-        "repo": "StasPotapov/auto-bmad"
+        "repo": "StasPotapov/auto-bmad",
+        "ref": "v1.1.0",
+        "sha": "0581676c9dd498975013fb72d8135f07daafe4b9"
       },
       "keywords": [
         "bmad",
