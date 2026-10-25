@@ -11,7 +11,9 @@
       "description": "Android Debug Bridge Matrix: an agent drives Android devices and emulators instead of raw adb with deterministic commands, not guesses from screenshots — screen as text, taps that check the next screen, input, apps, logs, screenshots — plus visual checks: emulators by API level, Maestro flows in parallel, before/after board and contact sheet.",
       "source": {
         "source": "github",
-        "repo": "StasPotapov/adbm"
+        "repo": "StasPotapov/adbm",
+        "ref": "v0.3.0",
+        "sha": "1ba05002c1b64bc77ec23ee5186000f37844ace2"
       },
       "keywords": [
         "android",
@@ -34,7 +36,9 @@
       "description": "A Claude Code skill that walks you from an idea to a bespoke offline HTML slide deck: slide text, design brief, build with a presenter window and live notes, spoken run-through and trimming to time. Plus a short path: one page in one go.",
       "source": {
         "source": "github",
-        "repo": "StasPotapov/present"
+        "repo": "StasPotapov/present",
+        "ref": "v1.0.0",
+        "sha": "71fb2d333eaea6eb5dc4f9bf533181b16394bc3a"
       },
       "keywords": [
         "presentation",
@@ -52,7 +56,9 @@
       "description": "Move commits between two unrelated git repositories: the git-xfer CLI on the agent's PATH and a skill that drives it — dedup, conflict dry run, honest abort.",
       "source": {
         "source": "github",
-        "repo": "StasPotapov/git-xfer"
+        "repo": "StasPotapov/git-xfer",
+        "ref": "v0.2.0",
+        "sha": "bcf6c7e68c58d560e9e485085edf58c6f242a66d"
       },
       "keywords": [
         "git",
