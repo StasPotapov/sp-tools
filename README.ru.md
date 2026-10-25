@@ -38,8 +38,8 @@ claude plugin install adbm@sp-tools
 к тебе не приходят.
 
 - **Сами:** `/plugin` → **Marketplaces** → `sp-tools` → **Enable auto-update**. Тогда Claude Code
-  проверяет новые релизы в фоне после старта сессии.
-- **Руками:** `/plugin marketplace update sp-tools`, затем `/plugin update adbm@sp-tools`.
+  проверяет новые релизы в фоне. Новая версия заработает после `/reload-plugins` или при следующем запуске.
+- **Руками:** `/plugin marketplace update sp-tools`, затем `claude plugin update adbm@sp-tools` (в терминале).
 
 ## Переход с маркетплейса отдельного репозитория
 
@@ -52,7 +52,7 @@ claude plugin install adbm@sp-tools
 /plugin install adbm@sp-tools
 ```
 
-Обе установки сразу не держи: скилл загрузится дважды.
+Обе установки сразу не держи: плагины с одним именем из двух маркетплейсов конфликтуют.
 
 ## Лицензия
 

@@ -36,8 +36,8 @@ updates fail.
 Every plugin here points at a release tag, such as `v1.2.0`. Commits between releases do not reach you.
 
 - **Automatic:** `/plugin` → **Marketplaces** → `sp-tools` → **Enable auto-update**. Claude Code then
-  checks for new releases in the background after a session starts.
-- **By hand:** `/plugin marketplace update sp-tools`, then `/plugin update adbm@sp-tools`.
+  checks for new releases in the background; a new version works after `/reload-plugins` or the next start.
+- **By hand:** `/plugin marketplace update sp-tools`, then `claude plugin update adbm@sp-tools` (in the shell).
 
 ## Moving from a per-repo marketplace
 
@@ -50,7 +50,7 @@ Those still work, but they follow the `main` branch instead of releases. To swit
 /plugin install adbm@sp-tools
 ```
 
-Do not keep both: the skill then loads twice.
+Do not keep both: plugins with the same name from two marketplaces conflict.
 
 ## License
 
