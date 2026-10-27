@@ -105,8 +105,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/mockmatch",
-        "ref": "v0.1.1",
-        "sha": "2656377c3c464c5670bcd534ee587716233fddeb"
+        "ref": "v0.1.2",
+        "sha": "1ac3d357753c7e0a115732223643672c0ef53e95"
       },
       "keywords": [
         "browser",
@@ -130,8 +130,8 @@
       "source": {
         "source": "github",
         "repo": "StasPotapov/auto-bmad",
-        "ref": "v1.3.0",
-        "sha": "1a78933797ae46b513a75cd396c434c4c1d3c306"
+        "ref": "v1.4.0",
+        "sha": "aec91388c50874ff5219204cf7276ad5299e1e31"
       },
       "keywords": [
         "bmad",
